@@ -1,0 +1,9 @@
+{
+  "identifier": "com.yourname.lights-out-soft",
+  "name": "Lights Out Soft",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "1.0.0",
+  "url": "https://yourusername.github.io/yourrepo/theme.css",
+  "latest_url": "https://yourusername.github.io/yourrepo/ext.json"
+}
