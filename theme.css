@@ -1,7 +1,7 @@
 :root {
-  --c-true-black: #1a1a1a;
-  --c-off-black:  #222222;
-  --c-dark-gray:  #2e2e2e;
+  --c-true-black: #000000;
+  --c-off-black:  #090909;
+  --c-dark-gray:  #151515;
   --c-mid-gray:   #737373;
   --c-light-gray: #9C9C9C;
   --c-white:      #FFFFFF;
@@ -60,7 +60,7 @@
   --sn-stylekit-scrollbar-track-border-color: var(--background-secondary);
 
   --sn-stylekit-theme-type: dark;
-  --sn-stylekit-theme-name: lights out soft;
+  --sn-stylekit-theme-name: lights out;
 
   --sn-stylekit-passive-color-0: var(--text-secondary);
   --sn-stylekit-passive-color-1: var(--text-secondary);
